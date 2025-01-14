@@ -2,7 +2,7 @@ Hi👋, I’m Arvell Leoputra
 
 I am currently a Mathematic Student at the Technical University of Berlin.
 
-👀 I’m interested in analytical data science and programming.
+👀 I’m interested in discrete mathematics.
 
 💞️ I’m looking to collaborate on anything.
 
